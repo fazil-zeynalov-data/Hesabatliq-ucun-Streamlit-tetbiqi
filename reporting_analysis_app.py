@@ -1212,4 +1212,4 @@ with tabs[12]:
 st.markdown("---")
 st.caption(f"⚙️ {BRAND_NAME} · Kurumsal Satış Analiz Platformu — veriler yalnızca bu oturumda, tarayıcınızda işlenir.")
 
-# py -m streamlit run beko_analiz_app.py
+# py -m streamlit run reporting_analysis_app.py
