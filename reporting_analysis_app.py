@@ -8,7 +8,7 @@ Farklı şirketlere marka adı/logo/renk değiştirilerek yeniden satılabilir.
 
 Çalıştırmak için:
     pip install streamlit pandas plotly openpyxl xlsxwriter
-    streamlit run beko_analiz_app.py
+    streamlit run reporting_analysis_app.py
 """
 
 import io
